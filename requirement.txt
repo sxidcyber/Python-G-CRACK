@@ -1,0 +1,10 @@
+### MODULES NEEDED :
+
+- datetime --> installed automatic on Python v2.x
+- time ------> installed automatic on Python v2.x
+- os --------> installed automatic on Python v2.x
+- smtplib ---> installed automatic on Python v2.x
+
+### Python Version Recommended : version 2.7 and Up
+
+### Python Version Not Recommended : version 3.x and Up
